@@ -6,7 +6,7 @@ Status: First draft
 
 Last update: 4/20/2017
 
-Authors: Brian Grant, Tim Hockin, and Clayton Coleman
+Authors: Brian Grant, Tim Hockin and Clayton Coleman
 
 Intended audience: Kubernetes contributors
 
